@@ -23,7 +23,7 @@ appropriate location for Building the Apartment.
 ![](project_resources/image8.png)
 ![](project_resources/image9.png)
 ![](project_resources/image10.png)
-![](project_resources/image10.png)
+![](project_resources/image11.png)
 
 #### Update
 
